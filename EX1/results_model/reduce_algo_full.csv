@@ -1,0 +1,4 @@
+Processes,Size,Algorithm,Latency(us)
+2,2,4,0.43
+2,4,4,0.43
+2,8,4,0.45

@@ -1,0 +1,641 @@
+Processes,Size,Algorithm,Latency(us)
+2,2,Default,0.16
+2,4,Default,0.16
+2,8,Default,0.16
+2,16,Default,0.16
+2,32,Default,0.16
+2,64,Default,0.17
+2,128,Default,0.2
+2,256,Default,0.2
+2,512,Default,0.22
+2,1024,Default,0.25
+2,2048,Default,0.29
+2,4096,Default,0.35
+2,8192,Default,0.41
+2,16384,Default,4.84
+2,32768,Default,4.7
+2,65536,Default,6.3
+2,131072,Default,9.87
+2,262144,Default,19.72
+2,524288,Default,49.32
+2,1048576,Default,100.28
+4,2,Default,0.18
+4,4,Default,0.18
+4,8,Default,0.17
+4,16,Default,0.18
+4,32,Default,0.19
+4,64,Default,0.18
+4,128,Default,0.27
+4,256,Default,0.3
+4,512,Default,0.34
+4,1024,Default,0.38
+4,2048,Default,0.47
+4,4096,Default,0.59
+4,8192,Default,0.78
+4,16384,Default,7.14
+4,32768,Default,9.25
+4,65536,Default,11.85
+4,131072,Default,20.7
+4,262144,Default,76.47
+4,524288,Default,135.07
+4,1048576,Default,222.2
+8,2,Default,0.8
+8,4,Default,0.8
+8,8,Default,0.81
+8,16,Default,0.85
+8,32,Default,0.92
+8,64,Default,0.77
+8,128,Default,1.23
+8,256,Default,1.34
+8,512,Default,1.34
+8,1024,Default,1.49
+8,2048,Default,1.89
+8,4096,Default,3.03
+8,8192,Default,4.62
+8,16384,Default,10.96
+8,32768,Default,21.19
+8,65536,Default,33.11
+8,131072,Default,54.91
+8,262144,Default,149.06
+8,524288,Default,341.26
+8,1048576,Default,718.78
+16,2,Default,1.11
+16,4,Default,1.13
+16,8,Default,1.14
+16,16,Default,1.14
+16,32,Default,1.24
+16,64,Default,1.51
+16,128,Default,1.89
+16,256,Default,1.92
+16,512,Default,1.9
+16,1024,Default,2.28
+16,2048,Default,3.0
+16,4096,Default,5.32
+16,8192,Default,11.36
+16,16384,Default,16.94
+16,32768,Default,31.24
+16,65536,Default,58.08
+16,131072,Default,120.06
+16,262144,Default,240.42
+16,524288,Default,465.61
+16,1048576,Default,1460.18
+32,2,Default,1.56
+32,4,Default,1.81
+32,8,Default,1.48
+32,16,Default,1.7
+32,32,Default,1.65
+32,64,Default,1.74
+32,128,Default,2.52
+32,256,Default,2.52
+32,512,Default,2.62
+32,1024,Default,3.17
+32,2048,Default,4.0
+32,4096,Default,5.61
+32,8192,Default,8.59
+32,16384,Default,15.12
+32,32768,Default,27.1
+32,65536,Default,50.69
+32,131072,Default,94.47
+32,262144,Default,229.32
+32,524288,Default,511.96
+32,1048576,Default,859.62
+64,2,Default,1.92
+64,4,Default,1.83
+64,8,Default,1.97
+64,16,Default,1.46
+64,32,Default,1.93
+64,64,Default,1.93
+64,128,Default,2.81
+64,256,Default,2.83
+64,512,Default,2.92
+64,1024,Default,3.56
+64,2048,Default,4.83
+64,4096,Default,6.75
+64,8192,Default,11.01
+64,16384,Default,18.25
+64,32768,Default,33.83
+64,65536,Default,71.49
+64,131072,Default,151.21
+64,262144,Default,317.78
+64,524288,Default,652.44
+64,1048576,Default,1067.33
+128,2,Default,4.19
+128,4,Default,3.73
+128,8,Default,3.77
+128,16,Default,3.76
+128,32,Default,4.0
+128,64,Default,3.96
+128,128,Default,5.86
+128,256,Default,6.12
+128,512,Default,6.04
+128,1024,Default,6.59
+128,2048,Default,10.01
+128,4096,Default,18.05
+128,8192,Default,35.24
+128,16384,Default,108.5
+128,32768,Default,159.72
+128,65536,Default,109.45
+128,131072,Default,243.54
+128,262144,Default,507.89
+128,524288,Default,1103.9
+128,1048576,Default,1632.34
+256,2,Default,1.05
+256,4,Default,1.14
+256,8,Default,1.16
+256,16,Default,1.24
+256,32,Default,1.58
+256,64,Default,1.64
+256,128,Default,2.72
+256,256,Default,2.76
+256,512,Default,4.83
+256,1024,Default,5.46
+256,2048,Default,7.37
+256,4096,Default,10.33
+256,8192,Default,16.59
+256,16384,Default,68.01
+256,32768,Default,46.07
+256,65536,Default,84.7
+256,131072,Default,197.57
+256,262144,Default,418.45
+256,524288,Default,931.83
+256,1048576,Default,1590.12
+2,2,Basic Linear,0.15
+2,4,Basic Linear,0.16
+2,8,Basic Linear,0.15
+2,16,Basic Linear,0.16
+2,32,Basic Linear,0.15
+2,64,Basic Linear,0.15
+2,128,Basic Linear,0.19
+2,256,Basic Linear,0.2
+2,512,Basic Linear,0.22
+2,1024,Basic Linear,0.25
+2,2048,Basic Linear,0.3
+2,4096,Basic Linear,0.33
+2,8192,Basic Linear,0.41
+2,16384,Basic Linear,4.86
+2,32768,Basic Linear,5.07
+2,65536,Basic Linear,6.41
+2,131072,Basic Linear,10.79
+2,262144,Basic Linear,19.72
+2,524288,Basic Linear,43.63
+2,1048576,Basic Linear,93.81
+4,2,Basic Linear,0.13
+4,4,Basic Linear,0.14
+4,8,Basic Linear,0.13
+4,16,Basic Linear,0.13
+4,32,Basic Linear,0.13
+4,64,Basic Linear,0.13
+4,128,Basic Linear,0.27
+4,256,Basic Linear,0.26
+4,512,Basic Linear,0.3
+4,1024,Basic Linear,0.34
+4,2048,Basic Linear,0.47
+4,4096,Basic Linear,0.56
+4,8192,Basic Linear,0.8
+4,16384,Basic Linear,7.16
+4,32768,Basic Linear,10.58
+4,65536,Basic Linear,11.48
+4,131072,Basic Linear,22.32
+4,262144,Basic Linear,67.22
+4,524288,Basic Linear,142.59
+4,1048576,Basic Linear,316.87
+8,2,Basic Linear,0.86
+8,4,Basic Linear,0.89
+8,8,Basic Linear,0.91
+8,16,Basic Linear,0.96
+8,32,Basic Linear,0.93
+8,64,Basic Linear,1.05
+8,128,Basic Linear,1.56
+8,256,Basic Linear,1.42
+8,512,Basic Linear,1.59
+8,1024,Basic Linear,1.81
+8,2048,Basic Linear,2.41
+8,4096,Basic Linear,3.34
+8,8192,Basic Linear,4.62
+8,16384,Basic Linear,16.46
+8,32768,Basic Linear,21.53
+8,65536,Basic Linear,33.16
+8,131072,Basic Linear,53.1
+8,262144,Basic Linear,144.96
+8,524288,Basic Linear,342.2
+8,1048576,Basic Linear,731.12
+16,2,Basic Linear,1.6
+16,4,Basic Linear,1.6
+16,8,Basic Linear,1.57
+16,16,Basic Linear,1.69
+16,32,Basic Linear,1.75
+16,64,Basic Linear,1.73
+16,128,Basic Linear,3.3
+16,256,Basic Linear,3.21
+16,512,Basic Linear,3.24
+16,1024,Basic Linear,3.97
+16,2048,Basic Linear,5.4
+16,4096,Basic Linear,8.31
+16,8192,Basic Linear,13.21
+16,16384,Basic Linear,10.47
+16,32768,Basic Linear,22.32
+16,65536,Basic Linear,48.4
+16,131072,Basic Linear,107.81
+16,262144,Basic Linear,237.85
+16,524288,Basic Linear,404.41
+16,1048576,Basic Linear,916.2
+32,2,Basic Linear,3.13
+32,4,Basic Linear,3.36
+32,8,Basic Linear,3.22
+32,16,Basic Linear,3.35
+32,32,Basic Linear,3.36
+32,64,Basic Linear,3.41
+32,128,Basic Linear,7.1
+32,256,Basic Linear,7.07
+32,512,Basic Linear,7.29
+32,1024,Basic Linear,8.75
+32,2048,Basic Linear,12.33
+32,4096,Basic Linear,17.81
+32,8192,Basic Linear,26.89
+32,16384,Basic Linear,23.36
+32,32768,Basic Linear,52.66
+32,65536,Basic Linear,102.91
+32,131072,Basic Linear,232.01
+32,262144,Basic Linear,461.31
+32,524288,Basic Linear,941.41
+32,1048576,Basic Linear,1727.37
+64,2,Basic Linear,4.98
+64,4,Basic Linear,5.14
+64,8,Basic Linear,5.08
+64,16,Basic Linear,5.4
+64,32,Basic Linear,6.04
+64,64,Basic Linear,5.63
+64,128,Basic Linear,14.79
+64,256,Basic Linear,15.29
+64,512,Basic Linear,15.7
+64,1024,Basic Linear,17.72
+64,2048,Basic Linear,27.69
+64,4096,Basic Linear,43.37
+64,8192,Basic Linear,71.87
+64,16384,Basic Linear,50.94
+64,32768,Basic Linear,88.28
+64,65536,Basic Linear,212.53
+64,131072,Basic Linear,485.74
+64,262144,Basic Linear,807.35
+64,524288,Basic Linear,2098.03
+64,1048576,Basic Linear,4135.96
+128,2,Basic Linear,13.11
+128,4,Basic Linear,13.62
+128,8,Basic Linear,13.28
+128,16,Basic Linear,13.77
+128,32,Basic Linear,15.63
+128,64,Basic Linear,14.67
+128,128,Basic Linear,37.14
+128,256,Basic Linear,38.78
+128,512,Basic Linear,38.17
+128,1024,Basic Linear,41.94
+128,2048,Basic Linear,65.78
+128,4096,Basic Linear,89.13
+128,8192,Basic Linear,144.47
+128,16384,Basic Linear,111.87
+128,32768,Basic Linear,209.85
+128,65536,Basic Linear,576.64
+128,131072,Basic Linear,1505.58
+128,262144,Basic Linear,3092.35
+128,524288,Basic Linear,6708.43
+128,1048576,Basic Linear,12881.9
+256,2,Basic Linear,38.02
+256,4,Basic Linear,38.44
+256,8,Basic Linear,38.39
+256,16,Basic Linear,38.94
+256,32,Basic Linear,41.95
+256,64,Basic Linear,43.4
+256,128,Basic Linear,80.55
+256,256,Basic Linear,83.08
+256,512,Basic Linear,102.42
+256,1024,Basic Linear,93.14
+256,2048,Basic Linear,133.57
+256,4096,Basic Linear,168.63
+256,8192,Basic Linear,256.28
+256,16384,Basic Linear,108.21
+256,32768,Basic Linear,200.71
+256,65536,Basic Linear,403.28
+256,131072,Basic Linear,909.11
+256,262144,Basic Linear,1841.86
+256,524288,Basic Linear,3645.72
+256,1048576,Basic Linear,8859.99
+2,2,Pipeline,0.16
+2,4,Pipeline,0.15
+2,8,Pipeline,0.16
+2,16,Pipeline,0.16
+2,32,Pipeline,0.15
+2,64,Pipeline,0.16
+2,128,Pipeline,0.2
+2,256,Pipeline,0.25
+2,512,Pipeline,0.21
+2,1024,Pipeline,0.25
+2,2048,Pipeline,0.28
+2,4096,Pipeline,0.34
+2,8192,Pipeline,0.43
+2,16384,Pipeline,4.14
+2,32768,Pipeline,4.58
+2,65536,Pipeline,4.8
+2,131072,Pipeline,7.69
+2,262144,Pipeline,11.81
+2,524288,Pipeline,26.89
+2,1048576,Pipeline,55.46
+4,2,Pipeline,0.24
+4,4,Pipeline,0.26
+4,8,Pipeline,0.26
+4,16,Pipeline,0.24
+4,32,Pipeline,0.25
+4,64,Pipeline,0.28
+4,128,Pipeline,0.36
+4,256,Pipeline,0.38
+4,512,Pipeline,0.42
+4,1024,Pipeline,0.49
+4,2048,Pipeline,0.57
+4,4096,Pipeline,0.71
+4,8192,Pipeline,0.95
+4,16384,Pipeline,5.09
+4,32768,Pipeline,8.98
+4,65536,Pipeline,10.55
+4,131072,Pipeline,17.28
+4,262144,Pipeline,36.93
+4,524288,Pipeline,81.0
+4,1048576,Pipeline,179.01
+8,2,Pipeline,1.43
+8,4,Pipeline,1.27
+8,8,Pipeline,1.27
+8,16,Pipeline,1.26
+8,32,Pipeline,1.34
+8,64,Pipeline,1.39
+8,128,Pipeline,1.59
+8,256,Pipeline,1.61
+8,512,Pipeline,1.8
+8,1024,Pipeline,2.11
+8,2048,Pipeline,2.45
+8,4096,Pipeline,3.08
+8,8192,Pipeline,4.33
+8,16384,Pipeline,14.98
+8,32768,Pipeline,22.37
+8,65536,Pipeline,40.21
+8,131072,Pipeline,59.28
+8,262144,Pipeline,117.91
+8,524288,Pipeline,238.35
+8,1048576,Pipeline,466.65
+16,2,Pipeline,2.66
+16,4,Pipeline,2.71
+16,8,Pipeline,2.76
+16,16,Pipeline,2.64
+16,32,Pipeline,3.03
+16,64,Pipeline,2.99
+16,128,Pipeline,3.33
+16,256,Pipeline,3.49
+16,512,Pipeline,3.62
+16,1024,Pipeline,4.36
+16,2048,Pipeline,4.8
+16,4096,Pipeline,6.23
+16,8192,Pipeline,8.73
+16,16384,Pipeline,30.0
+16,32768,Pipeline,46.07
+16,65536,Pipeline,80.21
+16,131072,Pipeline,147.92
+16,262144,Pipeline,298.1
+16,524288,Pipeline,610.83
+16,1048576,Pipeline,1147.19
+32,2,Pipeline,5.49
+32,4,Pipeline,5.6
+32,8,Pipeline,5.47
+32,16,Pipeline,5.69
+32,32,Pipeline,6.5
+32,64,Pipeline,6.14
+32,128,Pipeline,6.73
+32,256,Pipeline,6.93
+32,512,Pipeline,7.29
+32,1024,Pipeline,8.61
+32,2048,Pipeline,9.99
+32,4096,Pipeline,12.56
+32,8192,Pipeline,18.25
+32,16384,Pipeline,65.99
+32,32768,Pipeline,93.29
+32,65536,Pipeline,160.15
+32,131072,Pipeline,302.32
+32,262144,Pipeline,603.69
+32,524288,Pipeline,1207.0
+32,1048576,Pipeline,2406.5
+64,2,Pipeline,11.43
+64,4,Pipeline,12.38
+64,8,Pipeline,11.09
+64,16,Pipeline,10.82
+64,32,Pipeline,13.56
+64,64,Pipeline,12.4
+64,128,Pipeline,14.12
+64,256,Pipeline,13.63
+64,512,Pipeline,16.06
+64,1024,Pipeline,17.53
+64,2048,Pipeline,18.84
+64,4096,Pipeline,25.47
+64,8192,Pipeline,36.84
+64,16384,Pipeline,122.63
+64,32768,Pipeline,190.87
+64,65536,Pipeline,334.04
+64,131072,Pipeline,635.68
+64,262144,Pipeline,1252.3
+64,524288,Pipeline,2519.02
+64,1048576,Pipeline,5043.21
+128,2,Pipeline,26.52
+128,4,Pipeline,26.4
+128,8,Pipeline,23.3
+128,16,Pipeline,25.71
+128,32,Pipeline,25.08
+128,64,Pipeline,26.97
+128,128,Pipeline,28.27
+128,256,Pipeline,28.04
+128,512,Pipeline,30.3
+128,1024,Pipeline,32.98
+128,2048,Pipeline,43.05
+128,4096,Pipeline,55.74
+128,8192,Pipeline,82.78
+128,16384,Pipeline,261.63
+128,32768,Pipeline,404.53
+128,65536,Pipeline,700.26
+128,131072,Pipeline,1335.93
+128,262144,Pipeline,2557.7
+128,524288,Pipeline,5055.32
+128,1048576,Pipeline,9987.06
+256,2,Pipeline,31.72
+256,4,Pipeline,29.99
+256,8,Pipeline,29.34
+256,16,Pipeline,32.15
+256,32,Pipeline,31.02
+256,64,Pipeline,30.68
+256,128,Pipeline,38.5
+256,256,Pipeline,39.88
+256,512,Pipeline,45.15
+256,1024,Pipeline,58.21
+256,2048,Pipeline,78.38
+256,4096,Pipeline,96.77
+256,8192,Pipeline,147.82
+256,16384,Pipeline,499.7
+256,32768,Pipeline,774.24
+256,65536,Pipeline,1385.9
+256,131072,Pipeline,2578.34
+256,262144,Pipeline,5075.38
+256,524288,Pipeline,10173.11
+256,1048576,Pipeline,19978.68
+2,2,Binomial,0.16
+2,4,Binomial,0.15
+2,8,Binomial,0.16
+2,16,Binomial,0.14
+2,32,Binomial,0.16
+2,64,Binomial,0.18
+2,128,Binomial,0.2
+2,256,Binomial,0.2
+2,512,Binomial,0.24
+2,1024,Binomial,0.25
+2,2048,Binomial,0.3
+2,4096,Binomial,0.36
+2,8192,Binomial,0.45
+2,16384,Binomial,4.19
+2,32768,Binomial,4.4
+2,65536,Binomial,4.85
+2,131072,Binomial,7.62
+2,262144,Binomial,11.92
+2,524288,Binomial,29.84
+2,1048576,Binomial,59.96
+4,2,Binomial,0.18
+4,4,Binomial,0.18
+4,8,Binomial,0.17
+4,16,Binomial,0.19
+4,32,Binomial,0.17
+4,64,Binomial,0.18
+4,128,Binomial,0.28
+4,256,Binomial,0.29
+4,512,Binomial,0.31
+4,1024,Binomial,0.39
+4,2048,Binomial,0.46
+4,4096,Binomial,0.59
+4,8192,Binomial,0.82
+4,16384,Binomial,3.58
+4,32768,Binomial,6.28
+4,65536,Binomial,8.04
+4,131072,Binomial,12.98
+4,262144,Binomial,26.23
+4,524288,Binomial,56.4
+4,1048576,Binomial,118.11
+8,2,Binomial,0.75
+8,4,Binomial,0.86
+8,8,Binomial,0.85
+8,16,Binomial,0.85
+8,32,Binomial,0.93
+8,64,Binomial,0.98
+8,128,Binomial,1.26
+8,256,Binomial,1.2
+8,512,Binomial,1.32
+8,1024,Binomial,1.49
+8,2048,Binomial,1.94
+8,4096,Binomial,3.15
+8,8192,Binomial,4.6
+8,16384,Binomial,10.4
+8,32768,Binomial,18.59
+8,65536,Binomial,39.29
+8,131072,Binomial,61.3
+8,262144,Binomial,118.63
+8,524288,Binomial,247.24
+8,1048576,Binomial,446.09
+16,2,Binomial,1.1
+16,4,Binomial,1.05
+16,8,Binomial,1.05
+16,16,Binomial,1.1
+16,32,Binomial,1.25
+16,64,Binomial,1.26
+16,128,Binomial,1.61
+16,256,Binomial,1.64
+16,512,Binomial,1.81
+16,1024,Binomial,2.21
+16,2048,Binomial,3.05
+16,4096,Binomial,5.25
+16,8192,Binomial,10.6
+16,16384,Binomial,16.78
+16,32768,Binomial,31.14
+16,65536,Binomial,58.36
+16,131072,Binomial,119.58
+16,262144,Binomial,238.42
+16,524288,Binomial,472.84
+16,1048576,Binomial,865.32
+32,2,Binomial,1.59
+32,4,Binomial,1.48
+32,8,Binomial,1.51
+32,16,Binomial,1.56
+32,32,Binomial,1.71
+32,64,Binomial,1.84
+32,128,Binomial,2.4
+32,256,Binomial,2.53
+32,512,Binomial,2.63
+32,1024,Binomial,3.24
+32,2048,Binomial,4.5
+32,4096,Binomial,7.97
+32,8192,Binomial,16.86
+32,16384,Binomial,28.3
+32,32768,Binomial,51.83
+32,65536,Binomial,106.27
+32,131072,Binomial,204.39
+32,262144,Binomial,413.82
+32,524288,Binomial,800.13
+32,1048576,Binomial,1476.03
+64,2,Binomial,1.63
+64,4,Binomial,1.62
+64,8,Binomial,1.56
+64,16,Binomial,1.64
+64,32,Binomial,1.91
+64,64,Binomial,1.99
+64,128,Binomial,2.73
+64,256,Binomial,2.84
+64,512,Binomial,3.1
+64,1024,Binomial,3.74
+64,2048,Binomial,5.52
+64,4096,Binomial,11.88
+64,8192,Binomial,25.22
+64,16384,Binomial,43.27
+64,32768,Binomial,84.07
+64,65536,Binomial,166.32
+64,131072,Binomial,337.55
+64,262144,Binomial,703.11
+64,524288,Binomial,1309.17
+64,1048576,Binomial,2181.88
+128,2,Binomial,2.37
+128,4,Binomial,2.49
+128,8,Binomial,2.33
+128,16,Binomial,2.58
+128,32,Binomial,2.79
+128,64,Binomial,2.86
+128,128,Binomial,4.43
+128,256,Binomial,4.59
+128,512,Binomial,4.74
+128,1024,Binomial,4.86
+128,2048,Binomial,8.05
+128,4096,Binomial,16.52
+128,8192,Binomial,32.63
+128,16384,Binomial,62.38
+128,32768,Binomial,123.4
+128,65536,Binomial,258.53
+128,131072,Binomial,524.29
+128,262144,Binomial,1135.35
+128,524288,Binomial,2263.76
+128,1048576,Binomial,3771.37
+256,2,Binomial,4.32
+256,4,Binomial,4.42
+256,8,Binomial,4.33
+256,16,Binomial,4.44
+256,32,Binomial,4.7
+256,64,Binomial,4.83
+256,128,Binomial,6.27
+256,256,Binomial,6.49
+256,512,Binomial,23.86
+256,1024,Binomial,27.54
+256,2048,Binomial,33.34
+256,4096,Binomial,45.57
+256,8192,Binomial,64.4
+256,16384,Binomial,108.57
+256,32768,Binomial,191.8
+256,65536,Binomial,351.75
+256,131072,Binomial,704.75
+256,262144,Binomial,1473.95
+256,524288,Binomial,3066.93
+256,1048576,Binomial,6055.68

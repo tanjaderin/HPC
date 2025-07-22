@@ -1,0 +1,55 @@
+# Latency: core 0 vs distant cores (exclusive)
+Testing with cores: 0 and 1
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.15
+Testing with cores: 0 and 4
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.32
+Testing with cores: 0 and 8
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.35
+Testing with cores: 0 and 16
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.38
+Testing with cores: 0 and 32
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.43
+Testing with cores: 0 and 64
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.69
+Testing with cores: 0 and 96
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.66
+Testing with cores: 0 and 112
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.69
+Testing with cores: 0 and 127
+
+# OSU MPI Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+2                       0.69

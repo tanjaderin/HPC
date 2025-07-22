@@ -1,0 +1,73 @@
+Running with 1 threads for 1000x1000 image
+Image size: 1000x1000
+Processes: 1
+Threads per process: 1
+Compute time: 0.375170
+I/O time: 0.297729
+Total time: 0.672899
+Running with 4 threads for 2000x2000 image
+Image size: 2000x2000
+Processes: 1
+Threads per process: 4
+Compute time: 0.375373
+I/O time: 0.061759
+Total time: 0.437132
+Running with 9 threads for 3000x3000 image
+Image size: 3000x3000
+Processes: 1
+Threads per process: 9
+Compute time: 0.374456
+I/O time: 0.043762
+Total time: 0.418219
+Running with 16 threads for 4000x4000 image
+Image size: 4000x4000
+Processes: 1
+Threads per process: 16
+Compute time: 0.373229
+I/O time: 0.338263
+Total time: 0.711491
+Running with 25 threads for 5000x5000 image
+Image size: 5000x5000
+Processes: 1
+Threads per process: 25
+Compute time: 0.373768
+I/O time: 0.047985
+Total time: 0.421753
+Running with 36 threads for 6000x6000 image
+Image size: 6000x6000
+Processes: 1
+Threads per process: 36
+Compute time: 0.374102
+I/O time: 0.036037
+Total time: 0.410139
+Running with 49 threads for 7000x7000 image
+Image size: 7000x7000
+Processes: 1
+Threads per process: 49
+Compute time: 0.375608
+I/O time: 0.039480
+Total time: 0.415088
+Running with 64 threads for 8000x8000 image
+Image size: 8000x8000
+Processes: 1
+Threads per process: 64
+Compute time: 0.378805
+I/O time: 1.572389
+Total time: 1.951194
+Running with 81 threads for 9000x9000 image
+Image size: 9000x9000
+Processes: 1
+Threads per process: 81
+Compute time: 0.615690
+I/O time: 0.090654
+Total time: 0.706344
+Running with 100 threads for 10000x10000 image
+Image size: 10000x10000
+Processes: 1
+Threads per process: 100
+Compute time: 0.718721
+I/O time: 0.039172
+Total time: 0.757893
+
+Alternative OMP weak scaling completed.
+Results saved in: ../results/omp_weak_scaling_alt.csv

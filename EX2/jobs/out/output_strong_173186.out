@@ -1,0 +1,1794 @@
+Running with 1 processes
+Image size: 10000x10000
+Processes: 1
+Threads per process: 1
+Compute time: 37.079211
+I/O time: 0.084161
+Total time: 37.163374
+Running with 2 processes
+Image size: 10000x10000
+Processes: 2
+Threads per process: 1
+Compute time: 18.547838
+I/O time: 1.220119
+Total time: 19.753271
+Running with 3 processes
+Image size: 10000x10000
+Processes: 3
+Threads per process: 1
+Compute time: 29.414792
+I/O time: 26.867576
+Total time: 30.684303
+Running with 4 processes
+Image size: 10000x10000
+Processes: 4
+Threads per process: 1
+Compute time: 17.638585
+I/O time: 17.757849
+Total time: 18.655151
+Running with 5 processes
+Image size: 10000x10000
+Processes: 5
+Threads per process: 1
+Compute time: 20.342012
+I/O time: 21.272856
+Total time: 21.637300
+Running with 6 processes
+Image size: 10000x10000
+Processes: 6
+Threads per process: 1
+Compute time: 14.723395
+I/O time: 15.454168
+Total time: 15.732345
+Running with 7 processes
+Image size: 10000x10000
+Processes: 7
+Threads per process: 1
+Compute time: 15.381430
+I/O time: 16.332280
+Total time: 16.555385
+Running with 8 processes
+Image size: 10000x10000
+Processes: 8
+Threads per process: 1
+Compute time: 12.043898
+I/O time: 11.972265
+Total time: 12.160088
+Running with 9 processes
+Image size: 10000x10000
+Processes: 9
+Threads per process: 1
+Compute time: 12.193588
+I/O time: 13.102568
+Total time: 13.266174
+Running with 10 processes
+Image size: 10000x10000
+Processes: 10
+Threads per process: 1
+Compute time: 10.160146
+I/O time: 11.088007
+Total time: 11.233284
+Running with 11 processes
+Image size: 10000x10000
+Processes: 11
+Threads per process: 1
+Compute time: 10.065091
+I/O time: 11.122935
+Total time: 11.253985
+Running with 12 processes
+Image size: 10000x10000
+Processes: 12
+Threads per process: 1
+Compute time: 8.830623
+I/O time: 10.501869
+Total time: 10.621071
+Running with 13 processes
+Image size: 10000x10000
+Processes: 13
+Threads per process: 1
+Compute time: 8.564467
+I/O time: 9.807386
+Total time: 9.916468
+Running with 14 processes
+Image size: 10000x10000
+Processes: 14
+Threads per process: 1
+Compute time: 7.694892
+I/O time: 8.894990
+Total time: 8.995726
+Running with 15 processes
+Image size: 10000x10000
+Processes: 15
+Threads per process: 1
+Compute time: 7.472050
+I/O time: 7.668623
+Total time: 7.762271
+Running with 16 processes
+Image size: 10000x10000
+Processes: 16
+Threads per process: 1
+Compute time: 6.811158
+I/O time: 8.437997
+Total time: 8.525287
+Running with 17 processes
+Image size: 10000x10000
+Processes: 17
+Threads per process: 1
+Compute time: 6.613169
+I/O time: 7.852239
+Total time: 7.934619
+Running with 18 processes
+Image size: 10000x10000
+Processes: 18
+Threads per process: 1
+Compute time: 6.111258
+I/O time: 6.309611
+Total time: 6.387355
+Running with 19 processes
+Image size: 10000x10000
+Processes: 19
+Threads per process: 1
+Compute time: 5.943721
+I/O time: 7.147523
+Total time: 7.221094
+Running with 20 processes
+Image size: 10000x10000
+Processes: 20
+Threads per process: 1
+Compute time: 5.519808
+I/O time: 6.987660
+Total time: 7.057613
+Running with 21 processes
+Image size: 10000x10000
+Processes: 21
+Threads per process: 1
+Compute time: 5.396844
+I/O time: 6.614794
+Total time: 6.681553
+Running with 22 processes
+Image size: 10000x10000
+Processes: 22
+Threads per process: 1
+Compute time: 5.046493
+I/O time: 6.286869
+Total time: 6.350303
+Running with 23 processes
+Image size: 10000x10000
+Processes: 23
+Threads per process: 1
+Compute time: 4.953122
+I/O time: 5.273430
+Total time: 5.334083
+Running with 24 processes
+Image size: 10000x10000
+Processes: 24
+Threads per process: 1
+Compute time: 4.639980
+I/O time: 4.960497
+Total time: 5.018794
+Running with 25 processes
+Image size: 10000x10000
+Processes: 25
+Threads per process: 1
+Compute time: 4.567992
+I/O time: 5.624691
+Total time: 5.680570
+Running with 26 processes
+Image size: 10000x10000
+Processes: 26
+Threads per process: 1
+Compute time: 4.299142
+I/O time: 5.710509
+Total time: 5.764349
+Running with 27 processes
+Image size: 10000x10000
+Processes: 27
+Threads per process: 1
+Compute time: 4.233702
+I/O time: 5.526119
+Total time: 5.578346
+Running with 28 processes
+Image size: 10000x10000
+Processes: 28
+Threads per process: 1
+Compute time: 3.994695
+I/O time: 5.401251
+Total time: 5.451230
+Running with 29 processes
+Image size: 10000x10000
+Processes: 29
+Threads per process: 1
+Compute time: 3.952734
+I/O time: 4.286237
+Total time: 4.334787
+Running with 30 processes
+Image size: 10000x10000
+Processes: 30
+Threads per process: 1
+Compute time: 3.740867
+I/O time: 4.157814
+Total time: 4.204729
+Running with 31 processes
+Image size: 10000x10000
+Processes: 31
+Threads per process: 1
+Compute time: 3.703287
+I/O time: 3.947648
+Total time: 3.992856
+Running with 32 processes
+Image size: 10000x10000
+Processes: 32
+Threads per process: 1
+Compute time: 3.528813
+I/O time: 3.792619
+Total time: 3.836753
+Running with 33 processes
+Image size: 10000x10000
+Processes: 33
+Threads per process: 1
+Compute time: 3.478530
+I/O time: 3.634034
+Total time: 3.676777
+Running with 34 processes
+Image size: 10000x10000
+Processes: 34
+Threads per process: 1
+Compute time: 3.314276
+I/O time: 4.577644
+Total time: 4.619155
+Running with 35 processes
+Image size: 10000x10000
+Processes: 35
+Threads per process: 1
+Compute time: 3.286693
+I/O time: 3.568170
+Total time: 3.608509
+Running with 36 processes
+Image size: 10000x10000
+Processes: 36
+Threads per process: 1
+Compute time: 3.143044
+I/O time: 3.329816
+Total time: 3.368850
+Running with 37 processes
+Image size: 10000x10000
+Processes: 37
+Threads per process: 1
+Compute time: 3.104891
+I/O time: 4.468925
+Total time: 4.507755
+Running with 38 processes
+Image size: 10000x10000
+Processes: 38
+Threads per process: 1
+Compute time: 2.981084
+I/O time: 4.336062
+Total time: 4.372902
+Running with 39 processes
+Image size: 10000x10000
+Processes: 39
+Threads per process: 1
+Compute time: 2.945452
+I/O time: 4.447566
+Total time: 4.483822
+Running with 40 processes
+Image size: 10000x10000
+Processes: 40
+Threads per process: 1
+Compute time: 2.838396
+I/O time: 4.360781
+Total time: 4.396239
+Running with 41 processes
+Image size: 10000x10000
+Processes: 41
+Threads per process: 1
+Compute time: 2.809910
+I/O time: 4.360085
+Total time: 4.394733
+Running with 42 processes
+Image size: 10000x10000
+Processes: 42
+Threads per process: 1
+Compute time: 2.708059
+I/O time: 4.100909
+Total time: 4.134829
+Running with 43 processes
+Image size: 10000x10000
+Processes: 43
+Threads per process: 1
+Compute time: 2.684713
+I/O time: 4.191558
+Total time: 4.224517
+Running with 44 processes
+Image size: 10000x10000
+Processes: 44
+Threads per process: 1
+Compute time: 2.591840
+I/O time: 3.844003
+Total time: 3.876674
+Running with 45 processes
+Image size: 10000x10000
+Processes: 45
+Threads per process: 1
+Compute time: 2.561235
+I/O time: 4.339738
+Total time: 4.371731
+Running with 46 processes
+Image size: 10000x10000
+Processes: 46
+Threads per process: 1
+Compute time: 2.486361
+I/O time: 3.881256
+Total time: 3.911971
+Running with 47 processes
+Image size: 10000x10000
+Processes: 47
+Threads per process: 1
+Compute time: 2.458292
+I/O time: 3.903798
+Total time: 3.933936
+Running with 48 processes
+Image size: 10000x10000
+Processes: 48
+Threads per process: 1
+Compute time: 2.385777
+I/O time: 3.824709
+Total time: 3.854666
+Running with 49 processes
+Image size: 10000x10000
+Processes: 49
+Threads per process: 1
+Compute time: 2.355298
+I/O time: 3.797200
+Total time: 3.826772
+Running with 50 processes
+Image size: 10000x10000
+Processes: 50
+Threads per process: 1
+Compute time: 2.293646
+I/O time: 4.450361
+Total time: 4.479658
+Running with 51 processes
+Image size: 10000x10000
+Processes: 51
+Threads per process: 1
+Compute time: 2.266738
+I/O time: 3.954431
+Total time: 3.982493
+Running with 52 processes
+Image size: 10000x10000
+Processes: 52
+Threads per process: 1
+Compute time: 2.214488
+I/O time: 3.839876
+Total time: 3.868046
+Running with 53 processes
+Image size: 10000x10000
+Processes: 53
+Threads per process: 1
+Compute time: 2.195826
+I/O time: 3.662281
+Total time: 3.689573
+Running with 54 processes
+Image size: 10000x10000
+Processes: 54
+Threads per process: 1
+Compute time: 2.141514
+I/O time: 3.924480
+Total time: 3.952100
+Running with 55 processes
+Image size: 10000x10000
+Processes: 55
+Threads per process: 1
+Compute time: 2.124800
+I/O time: 3.609541
+Total time: 3.636545
+Running with 56 processes
+Image size: 10000x10000
+Processes: 56
+Threads per process: 1
+Compute time: 2.090703
+I/O time: 3.596177
+Total time: 3.623075
+Running with 57 processes
+Image size: 10000x10000
+Processes: 57
+Threads per process: 1
+Compute time: 2.058671
+I/O time: 4.241010
+Total time: 4.267163
+Running with 58 processes
+Image size: 10000x10000
+Processes: 58
+Threads per process: 1
+Compute time: 2.025306
+I/O time: 3.658871
+Total time: 3.684367
+Running with 59 processes
+Image size: 10000x10000
+Processes: 59
+Threads per process: 1
+Compute time: 2.003370
+I/O time: 3.558380
+Total time: 3.583872
+Running with 60 processes
+Image size: 10000x10000
+Processes: 60
+Threads per process: 1
+Compute time: 1.978903
+I/O time: 3.619277
+Total time: 3.645537
+Running with 61 processes
+Image size: 10000x10000
+Processes: 61
+Threads per process: 1
+Compute time: 1.959074
+I/O time: 3.729630
+Total time: 3.754425
+Running with 62 processes
+Image size: 10000x10000
+Processes: 62
+Threads per process: 1
+Compute time: 1.922635
+I/O time: 3.729873
+Total time: 3.753964
+Running with 63 processes
+Image size: 10000x10000
+Processes: 63
+Threads per process: 1
+Compute time: 1.911274
+I/O time: 3.989929
+Total time: 4.013688
+Running with 64 processes
+Image size: 10000x10000
+Processes: 64
+Threads per process: 1
+Compute time: 1.873540
+I/O time: 3.698279
+Total time: 3.722694
+Running with 65 processes
+Image size: 10000x10000
+Processes: 65
+Threads per process: 1
+Compute time: 1.858189
+I/O time: 3.567387
+Total time: 3.588794
+Running with 66 processes
+Image size: 10000x10000
+Processes: 66
+Threads per process: 1
+Compute time: 1.825752
+I/O time: 3.652819
+Total time: 3.674188
+Running with 67 processes
+Image size: 10000x10000
+Processes: 67
+Threads per process: 1
+Compute time: 1.793588
+I/O time: 3.396585
+Total time: 3.418034
+Running with 68 processes
+Image size: 10000x10000
+Processes: 68
+Threads per process: 1
+Compute time: 1.761511
+I/O time: 3.291220
+Total time: 3.312761
+Running with 69 processes
+Image size: 10000x10000
+Processes: 69
+Threads per process: 1
+Compute time: 1.747649
+I/O time: 3.410599
+Total time: 3.431194
+Running with 70 processes
+Image size: 10000x10000
+Processes: 70
+Threads per process: 1
+Compute time: 1.714216
+I/O time: 3.484394
+Total time: 3.504696
+Running with 71 processes
+Image size: 10000x10000
+Processes: 71
+Threads per process: 1
+Compute time: 1.701330
+I/O time: 3.470756
+Total time: 3.490682
+Running with 72 processes
+Image size: 10000x10000
+Processes: 72
+Threads per process: 1
+Compute time: 1.666508
+I/O time: 3.333590
+Total time: 3.353543
+Running with 73 processes
+Image size: 10000x10000
+Processes: 73
+Threads per process: 1
+Compute time: 1.650558
+I/O time: 3.865174
+Total time: 3.884267
+Running with 74 processes
+Image size: 10000x10000
+Processes: 74
+Threads per process: 1
+Compute time: 1.619278
+I/O time: 4.738842
+Total time: 4.758429
+Running with 75 processes
+Image size: 10000x10000
+Processes: 75
+Threads per process: 1
+Compute time: 1.603149
+I/O time: 3.268689
+Total time: 3.288028
+Running with 76 processes
+Image size: 10000x10000
+Processes: 76
+Threads per process: 1
+Compute time: 1.585453
+I/O time: 4.491511
+Total time: 4.510478
+Running with 77 processes
+Image size: 10000x10000
+Processes: 77
+Threads per process: 1
+Compute time: 1.568835
+I/O time: 4.655557
+Total time: 4.673778
+Running with 78 processes
+Image size: 10000x10000
+Processes: 78
+Threads per process: 1
+Compute time: 1.535439
+I/O time: 4.534520
+Total time: 4.552879
+Running with 79 processes
+Image size: 10000x10000
+Processes: 79
+Threads per process: 1
+Compute time: 1.531781
+I/O time: 4.216197
+Total time: 4.234405
+Running with 80 processes
+Image size: 10000x10000
+Processes: 80
+Threads per process: 1
+Compute time: 1.497489
+I/O time: 2.304081
+Total time: 2.322621
+Running with 81 processes
+Image size: 10000x10000
+Processes: 81
+Threads per process: 1
+Compute time: 1.482194
+I/O time: 3.991767
+Total time: 4.009737
+Running with 82 processes
+Image size: 10000x10000
+Processes: 82
+Threads per process: 1
+Compute time: 1.461683
+I/O time: 3.824571
+Total time: 3.841525
+Running with 83 processes
+Image size: 10000x10000
+Processes: 83
+Threads per process: 1
+Compute time: 1.448129
+I/O time: 4.007460
+Total time: 4.024671
+Running with 84 processes
+Image size: 10000x10000
+Processes: 84
+Threads per process: 1
+Compute time: 1.424930
+I/O time: 3.634034
+Total time: 3.651439
+Running with 85 processes
+Image size: 10000x10000
+Processes: 85
+Threads per process: 1
+Compute time: 1.422541
+I/O time: 3.871706
+Total time: 3.888728
+Running with 86 processes
+Image size: 10000x10000
+Processes: 86
+Threads per process: 1
+Compute time: 1.392911
+I/O time: 4.104930
+Total time: 4.122098
+Running with 87 processes
+Image size: 10000x10000
+Processes: 87
+Threads per process: 1
+Compute time: 1.387123
+I/O time: 3.855219
+Total time: 3.871791
+Running with 88 processes
+Image size: 10000x10000
+Processes: 88
+Threads per process: 1
+Compute time: 1.368734
+I/O time: 2.324428
+Total time: 2.340639
+Running with 89 processes
+Image size: 10000x10000
+Processes: 89
+Threads per process: 1
+Compute time: 1.349382
+I/O time: 3.987622
+Total time: 4.003809
+Running with 90 processes
+Image size: 10000x10000
+Processes: 90
+Threads per process: 1
+Compute time: 1.329076
+I/O time: 3.627409
+Total time: 3.643651
+Running with 91 processes
+Image size: 10000x10000
+Processes: 91
+Threads per process: 1
+Compute time: 1.326299
+I/O time: 3.708042
+Total time: 3.723929
+Running with 92 processes
+Image size: 10000x10000
+Processes: 92
+Threads per process: 1
+Compute time: 1.308294
+I/O time: 3.344040
+Total time: 3.359460
+Running with 93 processes
+Image size: 10000x10000
+Processes: 93
+Threads per process: 1
+Compute time: 1.300774
+I/O time: 3.692519
+Total time: 3.708472
+Running with 94 processes
+Image size: 10000x10000
+Processes: 94
+Threads per process: 1
+Compute time: 1.274199
+I/O time: 1.758223
+Total time: 1.774642
+Running with 95 processes
+Image size: 10000x10000
+Processes: 95
+Threads per process: 1
+Compute time: 1.265788
+I/O time: 3.801892
+Total time: 3.816822
+Running with 96 processes
+Image size: 10000x10000
+Processes: 96
+Threads per process: 1
+Compute time: 1.246740
+I/O time: 3.287776
+Total time: 3.304122
+Running with 97 processes
+Image size: 10000x10000
+Processes: 97
+Threads per process: 1
+Compute time: 1.243256
+I/O time: 3.227927
+Total time: 3.242889
+Running with 98 processes
+Image size: 10000x10000
+Processes: 98
+Threads per process: 1
+Compute time: 1.221679
+I/O time: 3.280563
+Total time: 3.295420
+Running with 99 processes
+Image size: 10000x10000
+Processes: 99
+Threads per process: 1
+Compute time: 1.219669
+I/O time: 3.233704
+Total time: 3.248832
+Running with 100 processes
+Image size: 10000x10000
+Processes: 100
+Threads per process: 1
+Compute time: 1.197229
+I/O time: 3.474620
+Total time: 3.489394
+Running with 101 processes
+Image size: 10000x10000
+Processes: 101
+Threads per process: 1
+Compute time: 1.195076
+I/O time: 3.447575
+Total time: 3.462764
+Running with 102 processes
+Image size: 10000x10000
+Processes: 102
+Threads per process: 1
+Compute time: 1.173671
+I/O time: 1.803014
+Total time: 1.817164
+Running with 103 processes
+Image size: 10000x10000
+Processes: 103
+Threads per process: 1
+Compute time: 1.170331
+I/O time: 3.305147
+Total time: 3.319880
+Running with 104 processes
+Image size: 10000x10000
+Processes: 104
+Threads per process: 1
+Compute time: 1.150162
+I/O time: 3.450487
+Total time: 3.464709
+Running with 105 processes
+Image size: 10000x10000
+Processes: 105
+Threads per process: 1
+Compute time: 1.146321
+I/O time: 3.494861
+Total time: 3.509131
+Running with 106 processes
+Image size: 10000x10000
+Processes: 106
+Threads per process: 1
+Compute time: 1.130669
+I/O time: 2.453304
+Total time: 2.467294
+Running with 107 processes
+Image size: 10000x10000
+Processes: 107
+Threads per process: 1
+Compute time: 1.119084
+I/O time: 1.903373
+Total time: 1.917274
+Running with 108 processes
+Image size: 10000x10000
+Processes: 108
+Threads per process: 1
+Compute time: 1.119314
+I/O time: 3.532720
+Total time: 3.546809
+Running with 109 processes
+Image size: 10000x10000
+Processes: 109
+Threads per process: 1
+Compute time: 1.109569
+I/O time: 3.452309
+Total time: 3.465615
+Running with 110 processes
+Image size: 10000x10000
+Processes: 110
+Threads per process: 1
+Compute time: 1.092571
+I/O time: 3.758416
+Total time: 3.772291
+Running with 111 processes
+Image size: 10000x10000
+Processes: 111
+Threads per process: 1
+Compute time: 1.087630
+I/O time: 1.839521
+Total time: 1.852842
+Running with 112 processes
+Image size: 10000x10000
+Processes: 112
+Threads per process: 1
+Compute time: 1.071386
+I/O time: 3.677225
+Total time: 3.691044
+Running with 113 processes
+Image size: 10000x10000
+Processes: 113
+Threads per process: 1
+Compute time: 1.059999
+I/O time: 3.556730
+Total time: 3.569649
+Running with 114 processes
+Image size: 10000x10000
+Processes: 114
+Threads per process: 1
+Compute time: 1.059129
+I/O time: 3.828937
+Total time: 3.842742
+Running with 115 processes
+Image size: 10000x10000
+Processes: 115
+Threads per process: 1
+Compute time: 1.053350
+I/O time: 1.742287
+Total time: 1.755323
+Running with 116 processes
+Image size: 10000x10000
+Processes: 116
+Threads per process: 1
+Compute time: 1.035284
+I/O time: 1.902274
+Total time: 1.916145
+Running with 117 processes
+Image size: 10000x10000
+Processes: 117
+Threads per process: 1
+Compute time: 1.024880
+I/O time: 3.531628
+Total time: 3.545384
+Running with 118 processes
+Image size: 10000x10000
+Processes: 118
+Threads per process: 1
+Compute time: 1.024923
+I/O time: 3.377215
+Total time: 3.389938
+Running with 119 processes
+Image size: 10000x10000
+Processes: 119
+Threads per process: 1
+Compute time: 1.017602
+I/O time: 1.781565
+Total time: 1.794160
+Running with 120 processes
+Image size: 10000x10000
+Processes: 120
+Threads per process: 1
+Compute time: 1.002605
+I/O time: 3.659967
+Total time: 3.673104
+Running with 121 processes
+Image size: 10000x10000
+Processes: 121
+Threads per process: 1
+Compute time: 1.004465
+I/O time: 3.602781
+Total time: 3.615928
+Running with 122 processes
+Image size: 10000x10000
+Processes: 122
+Threads per process: 1
+Compute time: 0.987091
+I/O time: 3.458664
+Total time: 3.471885
+Running with 123 processes
+Image size: 10000x10000
+Processes: 123
+Threads per process: 1
+Compute time: 0.982315
+I/O time: 1.654767
+Total time: 1.667177
+Running with 124 processes
+Image size: 10000x10000
+Processes: 124
+Threads per process: 1
+Compute time: 0.980768
+I/O time: 3.322591
+Total time: 3.335585
+Running with 125 processes
+Image size: 10000x10000
+Processes: 125
+Threads per process: 1
+Compute time: 0.972389
+I/O time: 3.784596
+Total time: 3.797766
+Running with 126 processes
+Image size: 10000x10000
+Processes: 126
+Threads per process: 1
+Compute time: 0.958268
+I/O time: 1.798363
+Total time: 1.810278
+Running with 127 processes
+Image size: 10000x10000
+Processes: 127
+Threads per process: 1
+Compute time: 0.959324
+I/O time: 3.867845
+Total time: 3.881225
+Running with 128 processes
+Image size: 10000x10000
+Processes: 128
+Threads per process: 1
+Compute time: 0.946577
+I/O time: 3.369585
+Total time: 3.382256
+Running with 129 processes
+Image size: 10000x10000
+Processes: 129
+Threads per process: 1
+Compute time: 0.953360
+I/O time: 3.721459
+Total time: 3.733784
+Running with 130 processes
+Image size: 10000x10000
+Processes: 130
+Threads per process: 1
+Compute time: 0.939897
+I/O time: 3.817805
+Total time: 3.830084
+Running with 131 processes
+Image size: 10000x10000
+Processes: 131
+Threads per process: 1
+Compute time: 0.930712
+I/O time: 3.486800
+Total time: 3.498683
+Running with 132 processes
+Image size: 10000x10000
+Processes: 132
+Threads per process: 1
+Compute time: 0.931091
+I/O time: 3.721222
+Total time: 3.733024
+Running with 133 processes
+Image size: 10000x10000
+Processes: 133
+Threads per process: 1
+Compute time: 0.919615
+I/O time: 3.979603
+Total time: 3.991525
+Running with 134 processes
+Image size: 10000x10000
+Processes: 134
+Threads per process: 1
+Compute time: 0.919956
+I/O time: 3.619429
+Total time: 3.631426
+Running with 135 processes
+Image size: 10000x10000
+Processes: 135
+Threads per process: 1
+Compute time: 0.907907
+I/O time: 4.072071
+Total time: 4.083764
+Running with 136 processes
+Image size: 10000x10000
+Processes: 136
+Threads per process: 1
+Compute time: 0.906924
+I/O time: 3.902434
+Total time: 3.914222
+Running with 137 processes
+Image size: 10000x10000
+Processes: 137
+Threads per process: 1
+Compute time: 0.895367
+I/O time: 3.580167
+Total time: 3.591894
+Running with 138 processes
+Image size: 10000x10000
+Processes: 138
+Threads per process: 1
+Compute time: 0.882180
+I/O time: 3.992382
+Total time: 4.004072
+Running with 139 processes
+Image size: 10000x10000
+Processes: 139
+Threads per process: 1
+Compute time: 0.882611
+I/O time: 4.087819
+Total time: 4.099039
+Running with 140 processes
+Image size: 10000x10000
+Processes: 140
+Threads per process: 1
+Compute time: 0.869945
+I/O time: 3.811417
+Total time: 3.822607
+Running with 141 processes
+Image size: 10000x10000
+Processes: 141
+Threads per process: 1
+Compute time: 0.869381
+I/O time: 3.747266
+Total time: 3.758201
+Running with 142 processes
+Image size: 10000x10000
+Processes: 142
+Threads per process: 1
+Compute time: 0.858121
+I/O time: 3.605390
+Total time: 3.616513
+Running with 143 processes
+Image size: 10000x10000
+Processes: 143
+Threads per process: 1
+Compute time: 0.857469
+I/O time: 3.569854
+Total time: 3.580567
+Running with 144 processes
+Image size: 10000x10000
+Processes: 144
+Threads per process: 1
+Compute time: 0.845701
+I/O time: 4.038237
+Total time: 4.049251
+Running with 145 processes
+Image size: 10000x10000
+Processes: 145
+Threads per process: 1
+Compute time: 0.844333
+I/O time: 3.842928
+Total time: 3.853812
+Running with 146 processes
+Image size: 10000x10000
+Processes: 146
+Threads per process: 1
+Compute time: 0.832724
+I/O time: 4.098457
+Total time: 4.109206
+Running with 147 processes
+Image size: 10000x10000
+Processes: 147
+Threads per process: 1
+Compute time: 0.831795
+I/O time: 4.123946
+Total time: 4.135338
+Running with 148 processes
+Image size: 10000x10000
+Processes: 148
+Threads per process: 1
+Compute time: 0.830593
+I/O time: 3.394408
+Total time: 3.405261
+Running with 149 processes
+Image size: 10000x10000
+Processes: 149
+Threads per process: 1
+Compute time: 0.817149
+I/O time: 3.935307
+Total time: 3.946576
+Running with 150 processes
+Image size: 10000x10000
+Processes: 150
+Threads per process: 1
+Compute time: 0.816074
+I/O time: 3.589595
+Total time: 3.600507
+Running with 151 processes
+Image size: 10000x10000
+Processes: 151
+Threads per process: 1
+Compute time: 0.802193
+I/O time: 4.619359
+Total time: 4.629727
+Running with 152 processes
+Image size: 10000x10000
+Processes: 152
+Threads per process: 1
+Compute time: 0.801230
+I/O time: 4.109107
+Total time: 4.119952
+Running with 153 processes
+Image size: 10000x10000
+Processes: 153
+Threads per process: 1
+Compute time: 0.786499
+I/O time: 3.551434
+Total time: 3.562055
+Running with 154 processes
+Image size: 10000x10000
+Processes: 154
+Threads per process: 1
+Compute time: 0.786379
+I/O time: 3.880380
+Total time: 3.890386
+Running with 155 processes
+Image size: 10000x10000
+Processes: 155
+Threads per process: 1
+Compute time: 0.786058
+I/O time: 3.389770
+Total time: 3.399864
+Running with 156 processes
+Image size: 10000x10000
+Processes: 156
+Threads per process: 1
+Compute time: 0.774572
+I/O time: 3.646968
+Total time: 3.657402
+Running with 157 processes
+Image size: 10000x10000
+Processes: 157
+Threads per process: 1
+Compute time: 0.774449
+I/O time: 3.241370
+Total time: 3.251277
+Running with 158 processes
+Image size: 10000x10000
+Processes: 158
+Threads per process: 1
+Compute time: 0.764253
+I/O time: 4.297221
+Total time: 4.308321
+Running with 159 processes
+Image size: 10000x10000
+Processes: 159
+Threads per process: 1
+Compute time: 0.763488
+I/O time: 4.297936
+Total time: 4.308210
+Running with 160 processes
+Image size: 10000x10000
+Processes: 160
+Threads per process: 1
+Compute time: 0.763755
+I/O time: 4.235091
+Total time: 4.245300
+Running with 161 processes
+Image size: 10000x10000
+Processes: 161
+Threads per process: 1
+Compute time: 0.751728
+I/O time: 4.007677
+Total time: 4.017534
+Running with 162 processes
+Image size: 10000x10000
+Processes: 162
+Threads per process: 1
+Compute time: 0.751567
+I/O time: 3.789066
+Total time: 3.799006
+Running with 163 processes
+Image size: 10000x10000
+Processes: 163
+Threads per process: 1
+Compute time: 0.733447
+I/O time: 4.363409
+Total time: 4.373022
+Running with 164 processes
+Image size: 10000x10000
+Processes: 164
+Threads per process: 1
+Compute time: 0.732649
+I/O time: 3.778667
+Total time: 3.788648
+Running with 165 processes
+Image size: 10000x10000
+Processes: 165
+Threads per process: 1
+Compute time: 0.731492
+I/O time: 4.324070
+Total time: 4.333857
+Running with 166 processes
+Image size: 10000x10000
+Processes: 166
+Threads per process: 1
+Compute time: 0.722203
+I/O time: 3.640877
+Total time: 3.651049
+Running with 167 processes
+Image size: 10000x10000
+Processes: 167
+Threads per process: 1
+Compute time: 0.722742
+I/O time: 4.280882
+Total time: 4.290564
+Running with 168 processes
+Image size: 10000x10000
+Processes: 168
+Threads per process: 1
+Compute time: 0.723124
+I/O time: 3.482171
+Total time: 3.491479
+Running with 169 processes
+Image size: 10000x10000
+Processes: 169
+Threads per process: 1
+Compute time: 0.710554
+I/O time: 4.534522
+Total time: 4.543753
+Running with 170 processes
+Image size: 10000x10000
+Processes: 170
+Threads per process: 1
+Compute time: 0.710357
+I/O time: 3.557059
+Total time: 3.566796
+Running with 171 processes
+Image size: 10000x10000
+Processes: 171
+Threads per process: 1
+Compute time: 0.698367
+I/O time: 4.295297
+Total time: 4.305037
+Running with 172 processes
+Image size: 10000x10000
+Processes: 172
+Threads per process: 1
+Compute time: 0.697849
+I/O time: 3.956251
+Total time: 3.966185
+Running with 173 processes
+Image size: 10000x10000
+Processes: 173
+Threads per process: 1
+Compute time: 0.698218
+I/O time: 4.402316
+Total time: 4.411877
+Running with 174 processes
+Image size: 10000x10000
+Processes: 174
+Threads per process: 1
+Compute time: 0.686557
+I/O time: 3.789874
+Total time: 3.798774
+Running with 175 processes
+Image size: 10000x10000
+Processes: 175
+Threads per process: 1
+Compute time: 0.686751
+I/O time: 4.356077
+Total time: 4.365092
+Running with 176 processes
+Image size: 10000x10000
+Processes: 176
+Threads per process: 1
+Compute time: 0.685448
+I/O time: 3.998499
+Total time: 4.008020
+Running with 177 processes
+Image size: 10000x10000
+Processes: 177
+Threads per process: 1
+Compute time: 0.684884
+I/O time: 3.729147
+Total time: 3.738337
+Running with 178 processes
+Image size: 10000x10000
+Processes: 178
+Threads per process: 1
+Compute time: 0.672750
+I/O time: 3.665776
+Total time: 3.675494
+Running with 179 processes
+Image size: 10000x10000
+Processes: 179
+Threads per process: 1
+Compute time: 0.672184
+I/O time: 3.967384
+Total time: 3.976673
+Running with 180 processes
+Image size: 10000x10000
+Processes: 180
+Threads per process: 1
+Compute time: 0.671823
+I/O time: 3.367337
+Total time: 3.377057
+Running with 181 processes
+Image size: 10000x10000
+Processes: 181
+Threads per process: 1
+Compute time: 0.657463
+I/O time: 4.075096
+Total time: 4.083984
+Running with 182 processes
+Image size: 10000x10000
+Processes: 182
+Threads per process: 1
+Compute time: 0.657218
+I/O time: 4.204036
+Total time: 4.213647
+Running with 183 processes
+Image size: 10000x10000
+Processes: 183
+Threads per process: 1
+Compute time: 0.657141
+I/O time: 4.699135
+Total time: 4.708044
+Running with 184 processes
+Image size: 10000x10000
+Processes: 184
+Threads per process: 1
+Compute time: 0.647923
+I/O time: 3.513805
+Total time: 3.522736
+Running with 185 processes
+Image size: 10000x10000
+Processes: 185
+Threads per process: 1
+Compute time: 0.647723
+I/O time: 4.645180
+Total time: 4.655267
+Running with 186 processes
+Image size: 10000x10000
+Processes: 186
+Threads per process: 1
+Compute time: 0.647938
+I/O time: 3.440412
+Total time: 3.449492
+Running with 187 processes
+Image size: 10000x10000
+Processes: 187
+Threads per process: 1
+Compute time: 0.635717
+I/O time: 3.783168
+Total time: 3.792322
+Running with 188 processes
+Image size: 10000x10000
+Processes: 188
+Threads per process: 1
+Compute time: 0.636019
+I/O time: 3.675346
+Total time: 3.684736
+Running with 189 processes
+Image size: 10000x10000
+Processes: 189
+Threads per process: 1
+Compute time: 0.636419
+I/O time: 4.228927
+Total time: 4.237547
+Running with 190 processes
+Image size: 10000x10000
+Processes: 190
+Threads per process: 1
+Compute time: 0.637312
+I/O time: 3.663066
+Total time: 3.672209
+Running with 191 processes
+Image size: 10000x10000
+Processes: 191
+Threads per process: 1
+Compute time: 0.623329
+I/O time: 4.458764
+Total time: 4.467591
+Running with 192 processes
+Image size: 10000x10000
+Processes: 192
+Threads per process: 1
+Compute time: 0.622097
+I/O time: 3.680671
+Total time: 3.690300
+Running with 193 processes
+Image size: 10000x10000
+Processes: 193
+Threads per process: 1
+Compute time: 0.622164
+I/O time: 3.467664
+Total time: 3.476614
+Running with 194 processes
+Image size: 10000x10000
+Processes: 194
+Threads per process: 1
+Compute time: 0.622371
+I/O time: 3.599311
+Total time: 3.607570
+Running with 195 processes
+Image size: 10000x10000
+Processes: 195
+Threads per process: 1
+Compute time: 0.608289
+I/O time: 3.101504
+Total time: 3.109441
+Running with 196 processes
+Image size: 10000x10000
+Processes: 196
+Threads per process: 1
+Compute time: 0.609135
+I/O time: 3.967559
+Total time: 3.975539
+Running with 197 processes
+Image size: 10000x10000
+Processes: 197
+Threads per process: 1
+Compute time: 0.609558
+I/O time: 3.500128
+Total time: 3.508086
+Running with 198 processes
+Image size: 10000x10000
+Processes: 198
+Threads per process: 1
+Compute time: 0.609761
+I/O time: 4.443926
+Total time: 4.451846
+Running with 199 processes
+Image size: 10000x10000
+Processes: 199
+Threads per process: 1
+Compute time: 0.596922
+I/O time: 3.821436
+Total time: 3.829368
+Running with 200 processes
+Image size: 10000x10000
+Processes: 200
+Threads per process: 1
+Compute time: 0.596112
+I/O time: 3.851954
+Total time: 3.859747
+Running with 201 processes
+Image size: 10000x10000
+Processes: 201
+Threads per process: 1
+Compute time: 0.595411
+I/O time: 3.604646
+Total time: 3.612294
+Running with 202 processes
+Image size: 10000x10000
+Processes: 202
+Threads per process: 1
+Compute time: 0.595978
+I/O time: 3.846764
+Total time: 3.854391
+Running with 203 processes
+Image size: 10000x10000
+Processes: 203
+Threads per process: 1
+Compute time: 0.584906
+I/O time: 4.053700
+Total time: 4.061158
+Running with 204 processes
+Image size: 10000x10000
+Processes: 204
+Threads per process: 1
+Compute time: 0.584835
+I/O time: 3.211032
+Total time: 3.218581
+Running with 205 processes
+Image size: 10000x10000
+Processes: 205
+Threads per process: 1
+Compute time: 0.585019
+I/O time: 4.173153
+Total time: 4.180612
+Running with 206 processes
+Image size: 10000x10000
+Processes: 206
+Threads per process: 1
+Compute time: 0.586080
+I/O time: 3.517174
+Total time: 3.524484
+Running with 207 processes
+Image size: 10000x10000
+Processes: 207
+Threads per process: 1
+Compute time: 0.575511
+I/O time: 3.693849
+Total time: 3.701167
+Running with 208 processes
+Image size: 10000x10000
+Processes: 208
+Threads per process: 1
+Compute time: 0.576997
+I/O time: 4.253546
+Total time: 4.261041
+Running with 209 processes
+Image size: 10000x10000
+Processes: 209
+Threads per process: 1
+Compute time: 0.575949
+I/O time: 3.200336
+Total time: 3.207459
+Running with 210 processes
+Image size: 10000x10000
+Processes: 210
+Threads per process: 1
+Compute time: 0.575107
+I/O time: 4.708896
+Total time: 4.715948
+Running with 211 processes
+Image size: 10000x10000
+Processes: 211
+Threads per process: 1
+Compute time: 0.564010
+I/O time: 4.394729
+Total time: 4.402381
+Running with 212 processes
+Image size: 10000x10000
+Processes: 212
+Threads per process: 1
+Compute time: 0.563999
+I/O time: 4.543258
+Total time: 4.550586
+Running with 213 processes
+Image size: 10000x10000
+Processes: 213
+Threads per process: 1
+Compute time: 0.564290
+I/O time: 4.515387
+Total time: 4.522421
+Running with 214 processes
+Image size: 10000x10000
+Processes: 214
+Threads per process: 1
+Compute time: 0.564221
+I/O time: 5.023274
+Total time: 5.030403
+Running with 215 processes
+Image size: 10000x10000
+Processes: 215
+Threads per process: 1
+Compute time: 0.564606
+I/O time: 4.972589
+Total time: 4.979272
+Running with 216 processes
+Image size: 10000x10000
+Processes: 216
+Threads per process: 1
+Compute time: 0.553225
+I/O time: 3.994031
+Total time: 4.001151
+Running with 217 processes
+Image size: 10000x10000
+Processes: 217
+Threads per process: 1
+Compute time: 0.552427
+I/O time: 4.241345
+Total time: 4.247944
+Running with 218 processes
+Image size: 10000x10000
+Processes: 218
+Threads per process: 1
+Compute time: 0.552323
+I/O time: 3.479072
+Total time: 3.486274
+Running with 219 processes
+Image size: 10000x10000
+Processes: 219
+Threads per process: 1
+Compute time: 0.552694
+I/O time: 4.649687
+Total time: 4.656576
+Running with 220 processes
+Image size: 10000x10000
+Processes: 220
+Threads per process: 1
+Compute time: 0.538119
+I/O time: 4.401244
+Total time: 4.407935
+Running with 221 processes
+Image size: 10000x10000
+Processes: 221
+Threads per process: 1
+Compute time: 0.538984
+I/O time: 4.079471
+Total time: 4.086631
+Running with 222 processes
+Image size: 10000x10000
+Processes: 222
+Threads per process: 1
+Compute time: 0.540157
+I/O time: 4.482837
+Total time: 4.489718
+Running with 223 processes
+Image size: 10000x10000
+Processes: 223
+Threads per process: 1
+Compute time: 0.540533
+I/O time: 3.871067
+Total time: 3.878049
+Running with 224 processes
+Image size: 10000x10000
+Processes: 224
+Threads per process: 1
+Compute time: 0.540993
+I/O time: 4.626721
+Total time: 4.633693
+Running with 225 processes
+Image size: 10000x10000
+Processes: 225
+Threads per process: 1
+Compute time: 0.529253
+I/O time: 4.905589
+Total time: 4.912587
+Running with 226 processes
+Image size: 10000x10000
+Processes: 226
+Threads per process: 1
+Compute time: 0.529325
+I/O time: 5.194134
+Total time: 5.201157
+Running with 227 processes
+Image size: 10000x10000
+Processes: 227
+Threads per process: 1
+Compute time: 0.529253
+I/O time: 4.617143
+Total time: 4.624356
+Running with 228 processes
+Image size: 10000x10000
+Processes: 228
+Threads per process: 1
+Compute time: 0.529514
+I/O time: 4.875316
+Total time: 4.882177
+Running with 229 processes
+Image size: 10000x10000
+Processes: 229
+Threads per process: 1
+Compute time: 0.529370
+I/O time: 5.405947
+Total time: 5.413152
+Running with 230 processes
+Image size: 10000x10000
+Processes: 230
+Threads per process: 1
+Compute time: 0.516984
+I/O time: 3.865873
+Total time: 3.872766
+Running with 231 processes
+Image size: 10000x10000
+Processes: 231
+Threads per process: 1
+Compute time: 0.517546
+I/O time: 4.487217
+Total time: 4.493983
+Running with 232 processes
+Image size: 10000x10000
+Processes: 232
+Threads per process: 1
+Compute time: 0.518549
+I/O time: 4.501080
+Total time: 4.508414
+Running with 233 processes
+Image size: 10000x10000
+Processes: 233
+Threads per process: 1
+Compute time: 0.519210
+I/O time: 4.887804
+Total time: 4.894903
+Running with 234 processes
+Image size: 10000x10000
+Processes: 234
+Threads per process: 1
+Compute time: 0.518882
+I/O time: 5.820610
+Total time: 5.827631
+Running with 235 processes
+Image size: 10000x10000
+Processes: 235
+Threads per process: 1
+Compute time: 0.518556
+I/O time: 4.030947
+Total time: 4.037850
+Running with 236 processes
+Image size: 10000x10000
+Processes: 236
+Threads per process: 1
+Compute time: 0.504648
+I/O time: 5.656025
+Total time: 5.663529
+Running with 237 processes
+Image size: 10000x10000
+Processes: 237
+Threads per process: 1
+Compute time: 0.506273
+I/O time: 4.838557
+Total time: 4.845362
+Running with 238 processes
+Image size: 10000x10000
+Processes: 238
+Threads per process: 1
+Compute time: 0.506355
+I/O time: 4.724875
+Total time: 4.731602
+Running with 239 processes
+Image size: 10000x10000
+Processes: 239
+Threads per process: 1
+Compute time: 0.505585
+I/O time: 5.498347
+Total time: 5.505113
+Running with 240 processes
+Image size: 10000x10000
+Processes: 240
+Threads per process: 1
+Compute time: 0.505658
+I/O time: 4.806583
+Total time: 4.813327
+Running with 241 processes
+Image size: 10000x10000
+Processes: 241
+Threads per process: 1
+Compute time: 0.502539
+I/O time: 5.132192
+Total time: 5.139039
+Running with 242 processes
+Image size: 10000x10000
+Processes: 242
+Threads per process: 1
+Compute time: 0.494257
+I/O time: 4.703080
+Total time: 4.710337
+Running with 243 processes
+Image size: 10000x10000
+Processes: 243
+Threads per process: 1
+Compute time: 0.495795
+I/O time: 4.828899
+Total time: 4.835093
+Running with 244 processes
+Image size: 10000x10000
+Processes: 244
+Threads per process: 1
+Compute time: 0.494428
+I/O time: 5.182029
+Total time: 5.189658
+Running with 245 processes
+Image size: 10000x10000
+Processes: 245
+Threads per process: 1
+Compute time: 0.495524
+I/O time: 4.538904
+Total time: 4.545627
+Running with 246 processes
+Image size: 10000x10000
+Processes: 246
+Threads per process: 1
+Compute time: 0.495512
+I/O time: 5.278192
+Total time: 5.284640
+Running with 247 processes
+Image size: 10000x10000
+Processes: 247
+Threads per process: 1
+Compute time: 0.482510
+I/O time: 5.859307
+Total time: 5.866054
+Running with 248 processes
+Image size: 10000x10000
+Processes: 248
+Threads per process: 1
+Compute time: 0.482368
+I/O time: 4.788588
+Total time: 4.796286
+Running with 249 processes
+Image size: 10000x10000
+Processes: 249
+Threads per process: 1
+Compute time: 0.482655
+I/O time: 4.015837
+Total time: 4.022566
+Running with 250 processes
+Image size: 10000x10000
+Processes: 250
+Threads per process: 1
+Compute time: 0.482624
+I/O time: 4.143173
+Total time: 4.150335
+Running with 251 processes
+Image size: 10000x10000
+Processes: 251
+Threads per process: 1
+Compute time: 0.482649
+I/O time: 4.272510
+Total time: 4.279008
+Running with 252 processes
+Image size: 10000x10000
+Processes: 252
+Threads per process: 1
+Compute time: 0.482943
+I/O time: 6.173218
+Total time: 6.179869
+Running with 253 processes
+Image size: 10000x10000
+Processes: 253
+Threads per process: 1
+Compute time: 0.482671
+I/O time: 4.865183
+Total time: 4.871590
+Running with 254 processes
+Image size: 10000x10000
+Processes: 254
+Threads per process: 1
+Compute time: 0.472514
+I/O time: 4.976413
+Total time: 4.983114
+Running with 255 processes
+Image size: 10000x10000
+Processes: 255
+Threads per process: 1
+Compute time: 0.472853
+I/O time: 4.807355
+Total time: 4.813812
+Running with 256 processes
+Image size: 10000x10000
+Processes: 256
+Threads per process: 1
+Compute time: 0.472218
+I/O time: 5.664440
+Total time: 5.671700
+
+Results saved in: ../results/mpi_strong_scaling.csv
